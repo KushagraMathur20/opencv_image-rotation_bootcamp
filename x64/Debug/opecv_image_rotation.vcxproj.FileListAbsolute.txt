@@ -1,0 +1,2 @@
+C:\Users\Lenovo\source\repos\opecv_image_rotation\x64\Debug\opecv_image_rotation.exe
+C:\Users\Lenovo\source\repos\opecv_image_rotation\x64\Debug\opecv_image_rotation.pdb

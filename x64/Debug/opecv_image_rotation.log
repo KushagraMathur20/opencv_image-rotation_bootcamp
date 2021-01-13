@@ -1,0 +1,12 @@
+﻿  opecv_image_rotation.cpp
+C:\Users\Lenovo\source\repos\opecv_image_rotation\opecv_image_rotation.cpp(10,50): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\Lenovo\source\repos\opecv_image_rotation\opecv_image_rotation.cpp(10,30): warning C4244: 'argument': conversion from 'double' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=float
+          ]
+  opecv_image_rotation.vcxproj -> C:\Users\Lenovo\source\repos\opecv_image_rotation\x64\Debug\opecv_image_rotation.exe
